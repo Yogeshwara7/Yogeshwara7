@@ -1,5 +1,42 @@
-# 💫 About Me:
-🛠️ I’m currently working on<br>Bitcoin Sentiment Trader Analysis: Exploring how market sentiment influences crypto trading performance<br><br>AI-powered blockchain analytics tools<br><br>Expanding my skills in machine learning and decentralized finance (DeFi)<br><br>🤝 I’m looking to collaborate on<br>Open-source blockchain analytics projects<br><br>AI/ML applications in fintech and crypto<br><br>Data-driven research in decentralized technologies<br><br>🤲 I’m looking for help with<br>Advanced deep learning techniques<br><br>Deploying scalable blockchain solutions<br><br>Real-time data visualization for crypto markets<br><br>🌱 I’m currently learning<br>Reinforcement learning for trading bots<br><br>Smart contract security and auditing<br><br>Cloud deployment for data science applications<br><br>💬 Ask me about<br>Blockchain data analysis<br><br>Building with Python, Solidity, or JavaScript<br><br>Crypto trading strategies and sentiment analysis<br><br>Machine learning for real-world problems<br><br>⚡ Fun fact<br>I love blending AI with blockchain to uncover hidden patterns in crypto markets—and I once built a bird species identifier using machine learning for fun!
+## 🔍 Current Focus
+
+- 🔎 **Bitcoin Sentiment Trader Analysis** – Studying how market mood impacts crypto trading
+- 🧠 Building AI-powered blockchain analytics tools
+- 🧩 Exploring DeFi, Reinforcement Learning, and Smart Contract Security
+
+---
+
+## 🤝 Open to Collaborations On
+
+- 📈 Blockchain + AI open-source projects
+- 🤖 ML/AI solutions for crypto and fintech
+- 📊 Real-time dashboards & data visualizations
+
+---
+
+## 🙋‍♂️ Looking For Help With
+
+- 🧠 Advanced deep learning (NLP/CNN/RL)
+- 🔐 Scaling secure blockchain infrastructure
+- 🌐 Cloud-native ML & DeFi integrations
+
+---
+
+## 🌱 Always Learning
+
+- 🤖 Reinforcement learning for trading bots
+- 📜 Smart contract auditing
+- ☁️ Cloud deployment of ML models
+
+---
+
+## 💬 Ask Me About
+
+- 📊 Blockchain data analysis
+- 🧱 Building with Python / Solidity / JS
+- 💹 Sentiment-based crypto trading
+- 🧠 Real-world ML applications
+
 
 
 ## 🎬 3D Animated Cube Demo

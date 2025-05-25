@@ -2,7 +2,7 @@
 
 ## 🎬 3D Animated Cube Demo
 
-<video src="Gen-4 Turbo A futuristic 3D animated cube floats and slowly rotates in a dark, immersive digital space Each of the cube's faces reveals glowing, animated keywords — Blockchain, AI, Data, and Crypto —.mp4" controls width="600"></video>
+<video src="vd.mp4" controls width="600"></video>
 
 
 ## 🌐 Socials:

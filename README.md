@@ -1,42 +1,14 @@
-## 🔍 Current Focus
+| 🔍 **Current Focus**                                                                 | 🤝 **Open to Collaborations**                         |
+|:------------------------------------------------------------------------------------|:------------------------------------------------------|
+| 🔎 Bitcoin Sentiment Trader Analysis – Studying how market mood impacts crypto trading<br>🧠 Building AI-powered blockchain analytics tools<br>🧩 Exploring DeFi, RL, and Smart Contract Security | 📈 Blockchain + AI open-source projects<br>🤖 ML/AI for crypto/fintech<br>📊 Real-time dashboards & data viz |
 
-- 🔎 **Bitcoin Sentiment Trader Analysis** – Studying how market mood impacts crypto trading
-- 🧠 Building AI-powered blockchain analytics tools
-- 🧩 Exploring DeFi, Reinforcement Learning, and Smart Contract Security
+| 🙋‍♂️ **Looking For Help With**                                                      | 🌱 **Always Learning**                                |
+|:------------------------------------------------------------------------------------|:------------------------------------------------------|
+| 🧠 Advanced deep learning (NLP/CNN/RL)<br>🔐 Scaling secure blockchain infrastructure<br>🌐 Cloud-native ML & DeFi integrations | 🤖 RL for trading bots<br>📜 Smart contract auditing<br>☁️ Cloud deployment of ML models |
 
----
-
-## 🤝 Open to Collaborations On
-
-- 📈 Blockchain + AI open-source projects
-- 🤖 ML/AI solutions for crypto and fintech
-- 📊 Real-time dashboards & data visualizations
-
----
-
-## 🙋‍♂️ Looking For Help With
-
-- 🧠 Advanced deep learning (NLP/CNN/RL)
-- 🔐 Scaling secure blockchain infrastructure
-- 🌐 Cloud-native ML & DeFi integrations
-
----
-
-## 🌱 Always Learning
-
-- 🤖 Reinforcement learning for trading bots
-- 📜 Smart contract auditing
-- ☁️ Cloud deployment of ML models
-
----
-
-## 💬 Ask Me About
-
-- 📊 Blockchain data analysis
-- 🧱 Building with Python / Solidity / JS
-- 💹 Sentiment-based crypto trading
-- 🧠 Real-world ML applications
-
+| 💬 **Ask Me About**                                                                 |                                                      |
+|:------------------------------------------------------------------------------------|:------------------------------------------------------|
+| 📊 Blockchain data analysis<br>🧱 Python / Solidity / JS<br>💹 Sentiment-based crypto trading<br>🧠 Real-world ML applications |                                                      |
 
 
 ## 🎬 3D Animated Cube Demo

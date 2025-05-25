@@ -2,6 +2,11 @@
 🛠️ I’m currently working on<br>Bitcoin Sentiment Trader Analysis: Exploring how market sentiment influences crypto trading performance<br><br>AI-powered blockchain analytics tools<br><br>Expanding my skills in machine learning and decentralized finance (DeFi)<br><br>🤝 I’m looking to collaborate on<br>Open-source blockchain analytics projects<br><br>AI/ML applications in fintech and crypto<br><br>Data-driven research in decentralized technologies<br><br>🤲 I’m looking for help with<br>Advanced deep learning techniques<br><br>Deploying scalable blockchain solutions<br><br>Real-time data visualization for crypto markets<br><br>🌱 I’m currently learning<br>Reinforcement learning for trading bots<br><br>Smart contract security and auditing<br><br>Cloud deployment for data science applications<br><br>💬 Ask me about<br>Blockchain data analysis<br><br>Building with Python, Solidity, or JavaScript<br><br>Crypto trading strategies and sentiment analysis<br><br>Machine learning for real-world problems<br><br>⚡ Fun fact<br>I love blending AI with blockchain to uncover hidden patterns in crypto markets—and I once built a bird species identifier using machine learning for fun!
 
 
+## 🎬 3D Animated Cube Demo
+
+<video src="./Gen-4%20Turbo%20A%20futuristic%203D%20animated%20cube%20floats%20and%20slowly%20rotates%20in%20a%20dark%2C%20immersive%20digital%20space%20Each%20of%20the%20cube's%20faces%20reveals%20glowing%2C%20animated%20keywords%20%E2%80%94%20Blockchain%2C%20AI%2C%20Data%2C%20and%20Crypto%20%E2%80%94.mp4" controls width="600"></video>
+
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yogi7__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yogeshwara-b-439327242) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@yogeshwara_b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yogeshwara567@gmail.com) 
 

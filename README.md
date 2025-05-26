@@ -2,7 +2,7 @@
 
 ## 🎬 3D Animated Cube Demo
 
-<video src="vd.mp4" controls width="600"></video>
+<video src="/vd.mp4" controls width="600"></video>
 
 
 ## 🌐 Socials:

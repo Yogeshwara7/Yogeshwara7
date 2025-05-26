@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Yogeshwara
 
-![3D Cube Animation](.3D.gif)
+![3D Cube Animation](3D.gif)
 
 
 

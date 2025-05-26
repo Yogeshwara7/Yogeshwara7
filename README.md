@@ -2,7 +2,7 @@
 
 ## 🎬 3D Animated Cube Demo
 
-![3D Cube Animation](./vd(1).gif)
+![3D Cube Animation](.vd(1).gif)
 
 
 

@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Hey there! I'm <span style="color:#00C4CC;">Yogeshwara</span> 👋</h1>
+<h1 align="center">Hey there! I'm <span style="color:#00C4CC;">Yogeshwara</span> 👋</h1>
 
 <p align="center">
   <b>Crafting Web3, Cloud, and AI Solutions | CSE @ AIET | Passionate about Building & Learning</b>
@@ -72,5 +72,3 @@
 [![](https://visitcount.itsvg.in/api?id=Yogeshwara7&label=Profile%20Views&icon=3&color=4)](https://visitcount.itsvg.in)
 
 </div>
-
-<!-- Designed with ❤️ by Yogeshwara using GPRM -->

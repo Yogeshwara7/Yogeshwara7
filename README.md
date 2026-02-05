@@ -15,8 +15,6 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Blockchain+Engineer;IoT+Specialist;Problem+Solver;Innovation+Driven)
 
-<img src="3D.gif" alt="Blockchain AI GIF" width="300" style="border-radius: 15px; margin: 20px;" />
-
 </div>
 
 ---

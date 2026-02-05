@@ -13,9 +13,9 @@
 
 ### *Full Stack Developer | Blockchain Engineer | IoT Specialist*
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Blockchain+Engineer;IoT+Specialist;Problem+Solver;Innovation+Driven)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Blockchain+Engineer;IoT+Specialist;Problem+Solver;Innovation+Driven)
 
-<img src="3D.gif" alt="Blockchain AI GIF" width="200" style="border-radius: 15px; margin: 20px;" />
+<img src="3D.gif" alt="Blockchain AI GIF" width="300" style="border-radius: 15px; margin: 20px;" />
 
 </div>
 
@@ -49,63 +49,60 @@ const developer = {
 
 ## Technical Expertise
 
-<div align="center">
-
 ### Frontend Development
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Backend Development
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### Blockchain & Web3
 ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/-Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 
-### IoT & Hardware
+### Tools & Technologies
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 
-</div>
-
 ### Proficiency Levels
+
+<table>
+<tr>
+<td>
 
 ```
 React.js & Frontend     ████████████████████░   Advanced
 Node.js & Backend       ███████████████████░░   Advanced  
 TypeScript              ██████████████████░░░   Proficient
+```
+
+</td>
+<td>
+
+```
 Blockchain & Solidity   ████████████████░░░░░   Proficient
 Firebase & Databases    ███████████████░░░░░░   Intermediate
 IoT Development         ██████████████░░░░░░░   Intermediate
 ```
 
----
-
-## Featured Projects
-
-### **Decentralized Crowdfunding Platform**
-> *Blockchain-powered fundraising solution with smart contract integration*
-- **Tech Stack:** React.js, Solidity, Web3.js, Ethereum
-- **Features:** Smart contract automation, secure transactions, transparent fund management
-- **Impact:** Enables trustless crowdfunding with automated milestone-based releases
-
-### **IoT-based Smart Systems**
-> *Intelligent automation platform for environmental monitoring and control*
-- **Tech Stack:** Arduino, Raspberry Pi, Node.js, Firebase, React
-- **Features:** Real-time sensor data collection, automated control systems, web dashboard
-- **Applications:** Smart home automation, environmental monitoring, energy optimization
-
-### **Full Stack Web Applications**
-> *Modern, scalable web solutions with responsive design and robust backends*
-- **Tech Stack:** React.js, Node.js, Express.js, MongoDB, Tailwind CSS
-- **Features:** RESTful APIs, real-time data synchronization, responsive UI/UX
-- **Focus:** Performance optimization, security best practices, user experience
+</td>
+</tr>
+</table>
 
 ---
 
@@ -124,13 +121,24 @@ IoT Development         ██████████████░░░░�
 
 ## GitHub Analytics
 
+<table>
+<tr>
+<td width="50%">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yogeshwara7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+</td>
+<td width="50%">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yogeshwara7&layout=compact&theme=tokyonight&hide_border=true)
+
+</td>
+</tr>
+</table>
+
 <div align="center">
 
-![Yogeshwara's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yogeshwara7&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yogeshwara7&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Yogeshwara7&theme=radical&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yogeshwara7&theme=tokyo-night&hide_border=true)
 
 </div>
 
@@ -138,11 +146,20 @@ IoT Development         ██████████████░░░░�
 
 ## Professional Achievements
 
-<div align="center">
+<table>
+<tr>
+<td width="60%">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Yogeshwara7&theme=radical&no-frame=false&no-bg=true&margin-w=6)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Yogeshwara7&theme=tokyonight&no-frame=false&no-bg=true&margin-w=6)
 
-</div>
+</td>
+<td width="40%">
+
+![GitHub Streak Stats](https://streak-stats.demolab.com/?user=Yogeshwara7&theme=tokyonight&hide_border=true)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -183,7 +200,7 @@ IoT Development         ██████████████░░░░�
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║  "The best way to predict the future is to create it."      ║
+║  "The best way to predict the future is to create it."       ║
 ║  - Peter Drucker                                             ║
 ║                                                              ║
 ║  Building tomorrow's solutions today.                        ║

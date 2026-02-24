@@ -8,10 +8,6 @@
 ```
 
 <div align="center">
-  
-# Yogeshwara B
-
-### *Aspiring Software Engineer | Blockchain Engineer*
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer;Blockchain+Engineer;Problem+Solver;Continuous+Learner)
 
